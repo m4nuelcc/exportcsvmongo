@@ -1,3 +1,9 @@
+
+Partimos de la base que tenermos creado una base de datos 
+y una colección en mongo y que este vinculada a Stich para obtener su  APP-id
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
