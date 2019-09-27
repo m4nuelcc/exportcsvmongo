@@ -1,12 +1,29 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import App from "./App";
+import * as serviceWorker from "./serviceWorker";
+import { BrowserRouter, Route } from "react-router-dom";
+import {
+  Stitch,
+  RemoteMongoClient,
+  AnonymousCredential
+} from "mongodb-stitch-browser-sdk";
 
-ReactDOM.render(<App />, document.getElementById('root'));
+//poner la id del proyecto de stitch
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+export const stitch = Stitch.initializeDefaultAppClient("ID-STITCH");
+export const mongo = stitch.getServiceClient(
+  RemoteMongoClient.factory,
+  "mongodb-atlas"
+);
+
+// para logearte en stitch
+
+if (!stitch.auth.isLoggedId) {
+  stitch.auth.loginWithCredential(new AnonymousCredential());
+}
+
+console.log("logged?", stitch.auth.isLoggedIn);
+
+ReactDOM.render(<App />, document.getElementById("root"));

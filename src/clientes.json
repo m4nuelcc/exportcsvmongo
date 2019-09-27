@@ -1,0 +1,252 @@
+[
+  {
+    "nombre": "Isabel",
+    "primerApellido": "lopez",
+    "segundoApellido": "casanova",
+    "telefono": 662459785,
+    "direccion": "Avda del Puerto",
+    "cp": 20034,
+    "nif": "50841257k",
+    "correo": "isabellopez@gmail.com"
+  },
+  {
+    "nombre": "Carlos",
+    "primerApellido": "Gutierrez",
+    "segundoApellido": "Santa Maria",
+    "telefono": 660124789,
+    "direccion": "c/Puerto Rueda",
+    "cp": 28040,
+    "nif": "50741267j",
+    "correo": "carlosgsantamaria@hotmail.com"
+  },
+  {
+    "nombre": "Ana Maria",
+    "primerApellido": "del corral",
+    "segundoApellido": "gomez",
+    "telefono": 915427896,
+    "direccion": "c/Segovia",
+    "cp": 20080,
+    "nif": "60147891B",
+    "correo": "anamariacorral@hotmail.es"
+  },
+  {
+    "nombre": "Sergio",
+    "primerApellido": "Casado",
+    "segundoApellido": "Gutierrez",
+    "telefono": 915478964,
+    "direccion": "Avda de la Peña",
+    "cp": 28060,
+    "nif": "60147894B",
+    "correo": "scasadog@gmail.com"
+  },
+  {
+    "nombre": "Sonia",
+    "primerApellido": "Delgado",
+    "segundoApellido": "de la Palma",
+    "telefono": 662458974,
+    "direccion": "c/Taur",
+    "cp": 20020,
+    "nif": "50941577F",
+    "correo": "sdelgado@gmail.com"
+  },
+  {
+    "nombre": "Rosa",
+    "primerApellido": "Rodriguez",
+    "segundoApellido": "del Angel",
+    "telefono": 661478952,
+    "direccion": "Avda Buenos Aires",
+    "cp": 28018,
+    "nif": "50789641F",
+    "correo": "rosadelangel@hotmail,com"
+  },
+  {
+    "nombre": "Jorge",
+    "primerApellido": "Saez",
+    "segundoApellido": "de Miguel",
+    "telefono": 915487964,
+    "direccion": "c/Ferrocarril",
+    "cp": 20040,
+    "nif": "50897456H",
+    "correo": "jsaezdemiguel@gmail.com"
+  },
+  {
+    "nombre": "Ignacio",
+    "primerApellido": "Santos",
+    "segundoApellido": "Vallejo",
+    "telefono": 915526478,
+    "direccion": "Avda de la Paz",
+    "cp": 28080,
+    "nif": "66124897F",
+    "correo": "santosvallejo@gmail.com"
+  },
+  {
+    "nombre": "Beatriz",
+    "primerApellido": "Lopez",
+    "segundoApellido": "de la Cuadra",
+    "telefono": 662789454,
+    "direccion": "c/ Cartagena",
+    "cp": 28060,
+    "nif": "50841247S",
+    "correo": "blopezdelacuadra@hotmail.es"
+  },
+  {
+    "nombre": "Pedro",
+    "primerApellido": "Martinez",
+    "segundoApellido": "Salcedo",
+    "telefono": 661297859,
+    "direccion": "c/Esparrago",
+    "cp": 20040,
+    "nif": "66597845G",
+    "correo": "pedromsalcedo@gmail.com"
+  },
+  {
+    "nombre": "Teresa",
+    "primerApellido": "Heredia",
+    "segundoApellido": "Martinez",
+    "telefono": 915647895,
+    "direccion": "c/Monasterio",
+    "cp": 28071,
+    "nif": "61259785H",
+    "correo": "therediamar@hotmail.com"
+  },
+  {
+    "nombre": "Hugo",
+    "primerApellido": "Sanchez",
+    "segundoApellido": "Posada",
+    "telefono": 914587954,
+    "direccion": "Avda Andalucia",
+    "cp": 28018,
+    "nif": "66521489H",
+    "correo": "hugosanchezp@gmail.com"
+  },
+  {
+    "nombre": "Antonio",
+    "primerApellido": "Gomez",
+    "segundoApellido": "Gomez",
+    "telefono": 915478965,
+    "direccion": "c/de la Paz",
+    "cp": 20014,
+    "nif": "50945781G",
+    "correo": "antoniogomezdos@gmail.com"
+  },
+  {
+    "nombre": "Andres",
+    "primerApellido": "de la fuente",
+    "segundoApellido": "Hortelano",
+    "telefono": 915469785,
+    "direccion": "c/Consorcio",
+    "cp": 28030,
+    "nif": "50945215G",
+    "correo": "andresdelafuenteh@hotmail.com"
+  },
+  {
+    "nombre": "Maria",
+    "primerApellido": "Ramos",
+    "segundoApellido": "Quesada",
+    "telefono": 915487964,
+    "direccion": "c/Criptana",
+    "cp": 20048,
+    "nif": "66210452F",
+    "correo": "mramosquesada@gmail.com"
+  },
+  {
+    "nombre": "Lucia",
+    "primerApellido": "Hoyos",
+    "segundoApellido": "Teruel",
+    "telefono": 915487964,
+    "direccion": "c/Diligencia",
+    "cp": 28018,
+    "nif": "50621487F",
+    "correo": "lhoyosteruel@hotmail.com"
+  },
+  {
+    "nombre": "Alberto",
+    "primerApellido": "Palacios",
+    "segundoApellido": "Dominguez",
+    "telefono": 914587964,
+    "direccion": "c/Peña Nueva",
+    "cp": 20038,
+    "nif": "50214987A",
+    "correo": "albertopdominguez@hotmail.com"
+  },
+  {
+    "nombre": "Carmen",
+    "primerApellido": "Ibañez",
+    "segundoApellido": "Serrano",
+    "telefono": 915647895,
+    "direccion": "c/tTopacio",
+    "cp": 20056,
+    "nif": "50621478R",
+    "correo": "cibañezserrano@gmail.com"
+  },
+  {
+    "nombre": "Eugenio",
+    "primerApellido": "Martinez",
+    "segundoApellido": "de la Cuesta",
+    "telefono": 9145687457,
+    "direccion": "c/Malasia",
+    "cp": 28050,
+    "nif": "50478961K",
+    "correo": "emdelacuesta@gmail.com"
+  },
+  {
+    "nombre": "Encarnacion",
+    "primerApellido": "Torres",
+    "segundoApellido": "Santiago",
+    "telefono": 914578954,
+    "direccion": "C/ Sota",
+    "cp": 20052,
+    "nif": "50674897D",
+    "correo": "encaarnaciontsantiago@hotmail.com"
+  },
+  {
+    "nombre": "Delia",
+    "primerApellido": "Sanchez",
+    "segundoApellido": "Campos",
+    "telefono": 915467854,
+    "direccion": "c/Almudena",
+    "cp": 28054,
+    "nif": "50478934D",
+    "correo": "dsanchezcampos@gmail.com"
+  },
+  {
+    "nombre": "Fernando",
+    "primerApellido": "Palacios",
+    "segundoApellido": "Sanabria",
+    "telefono": 662459785,
+    "direccion": "c/de la Sal",
+    "cp": 28056,
+    "nif": "52148974G",
+    "correo": "fpsanabria@gmail.com"
+  },
+  {
+    "nombre": "Virginia",
+    "primerApellido": "Tunez",
+    "segundoApellido": "de la Serna",
+    "telefono": 665412145,
+    "direccion": "c/Felipe",
+    "cp": 20004,
+    "nif": "50216478G",
+    "correo": "virginiatdelaserna@gmail.com"
+  },
+  {
+    "nombre": "Andrea",
+    "primerApellido": "Benito",
+    "segundoApellido": "del Bosque",
+    "telefono": 665412454,
+    "direccion": "Avda de Guzman",
+    "cp": 20014,
+    "nif": "50645784F",
+    "correo": "andreabdelbosque@gmail.com"
+  },
+  {
+    "nombre": "Sergio",
+    "primerApellido": "Delgado",
+    "segundoApellido": "Labrador",
+    "telefono": 662154784,
+    "direccion": "c/Nativodad",
+    "cp": 28056,
+    "nif": "52136478F",
+    "correo": "sdelgadolabradoe@hotmail.com"
+  }
+]
